@@ -1,1 +1,1 @@
-console.log("Declare a Read-Only Variable with the const Keyword".toLowerCase().replaceAll(' ', '-'))
+console.log("Add Two Numbers with JavaScript".toLowerCase().replaceAll(' ', '-'))
