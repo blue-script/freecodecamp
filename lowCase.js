@@ -1,1 +1,1 @@
-console.log("Divide One Number by Another with JavaScript".toLowerCase().replaceAll(' ', '-'))
+console.log("Increment a Number with JavaScript".toLowerCase().replaceAll(' ', '-'))
