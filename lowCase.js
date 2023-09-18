@@ -1,1 +1,1 @@
-console.log("Increment a Number with JavaScript".toLowerCase().replaceAll(' ', '-'))
+console.log("Decrement a Number with JavaScript".toLowerCase().replaceAll(' ', '-'))
