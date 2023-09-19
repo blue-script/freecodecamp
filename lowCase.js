@@ -1,1 +1,1 @@
-console.log("Use Bracket Notation to Find the Nth-to-Last Character in a String".toLowerCase().replaceAll(' ', '-'))
+console.log("Access Array Data with Indexes".toLowerCase().replaceAll(' ', '-'))
