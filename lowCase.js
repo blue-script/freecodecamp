@@ -1,1 +1,1 @@
-console.log("Find the Length of a String".toLowerCase().replaceAll(' ', '-'))
+console.log("Use Bracket Notation to Find the First Character in a String".toLowerCase().replaceAll(' ', '-'))
