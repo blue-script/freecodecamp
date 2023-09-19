@@ -1,1 +1,1 @@
-console.log("Understand String Immutability".toLowerCase().replaceAll(' ', '-'))
+console.log("Use Bracket Notation to Find the Nth Character in a String".toLowerCase().replaceAll(' ', '-'))
