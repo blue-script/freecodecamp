@@ -1,1 +1,1 @@
-console.log("Use Bracket Notation to Find the First Character in a String".toLowerCase().replaceAll(' ', '-'))
+console.log("Understand String Immutability".toLowerCase().replaceAll(' ', '-'))
