@@ -1,1 +1,1 @@
-console.log("Access Array Data with Indexes".toLowerCase().replaceAll(' ', '-'))
+console.log("Manipulate Arrays With push Method".toLowerCase().replaceAll(' ', '-'))
