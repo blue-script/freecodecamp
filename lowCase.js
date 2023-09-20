@@ -1,1 +1,1 @@
-console.log("Manipulate Arrays With push Method".toLowerCase().replaceAll(' ', '-'))
+console.log("Manipulate Arrays With pop Method".toLowerCase().replaceAll(' ', '-'))
