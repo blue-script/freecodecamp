@@ -1,1 +1,1 @@
-console.log("Manipulate Arrays With pop Method".toLowerCase().replaceAll(' ', '-'))
+console.log("Shopping List".toLowerCase().replaceAll(' ', '-'))
