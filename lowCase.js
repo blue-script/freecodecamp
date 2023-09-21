@@ -1,1 +1,1 @@
-console.log("Shopping List".toLowerCase().replaceAll(' ', '-'))
+console.log("Comparison with the Equality Operator".toLowerCase().replaceAll(' ', '-'))
