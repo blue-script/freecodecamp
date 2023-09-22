@@ -1,1 +1,1 @@
-console.log("Comparison with the Equality Operator".toLowerCase().replaceAll(' ', '-'))
+console.log("Counting Cards".toLowerCase().replaceAll(' ', '-'))
