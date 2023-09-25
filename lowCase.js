@@ -1,1 +1,1 @@
-console.log("Iterate with JavaScript While Loops".toLowerCase().replaceAll(' ', '-'))
+console.log("Replace Loops using Recursion".toLowerCase().replaceAll(' ', '-'))
