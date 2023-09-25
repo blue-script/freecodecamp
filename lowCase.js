@@ -1,1 +1,1 @@
-console.log("Accessing Object Properties with Dot Notation".toLowerCase().replaceAll(' ', '-'))
+console.log("Iterate with JavaScript While Loops".toLowerCase().replaceAll(' ', '-'))
