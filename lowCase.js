@@ -1,1 +1,1 @@
-console.log("Profile Lookup".toLowerCase().replaceAll(' ', '-'))
+console.log("Create Strings using Template Literals".toLowerCase().replaceAll(' ', '-'))
