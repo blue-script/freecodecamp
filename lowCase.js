@@ -1,1 +1,1 @@
-console.log("Create Strings using Template Literals".toLowerCase().replaceAll(' ', '-'))
+console.log("Use getters and setters to Control Access to an Object".toLowerCase().replaceAll(' ', '-'))
