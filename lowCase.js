@@ -1,1 +1,1 @@
-console.log("Match Letters of the Alphabet".toLowerCase().replaceAll(' ', '-'))
+console.log("Match Single Characters Not Specified".toLowerCase().replaceAll(' ', '-'))
