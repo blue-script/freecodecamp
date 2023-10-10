@@ -1,1 +1,1 @@
-console.log("Match Single Characters Not Specified".toLowerCase().replaceAll(' ', '-'))
+console.log("Match Characters that Occur Zero or More Times".toLowerCase().replaceAll(' ', '-'))
